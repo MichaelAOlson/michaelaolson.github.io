@@ -1,2 +1,2 @@
 # michaelaolson.github.io
-Personal Blog thrown together using a template by Chad Baldwin
+Personal blog thrown together with a template by Chad Baldwin
