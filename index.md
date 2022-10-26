@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+An interesting space for the open minded
 
-Maybe say a some things about yourself.
+Programming languages, software architecture, team dynamics, and leadership
 
-Or maybe what you plan to blog about.
+among other things
