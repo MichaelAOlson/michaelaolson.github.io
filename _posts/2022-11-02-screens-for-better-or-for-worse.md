@@ -16,7 +16,7 @@ When you are comfortable with your window manager and it supports robust partiti
 
 But when push comes to shove - is it productive?
 
-I have fallen victim to my own devices in having no clear "primary" monitor when I have 2 monitors. It creates a situation where I will be working on something tp the left, have a separate thought, go investigate that thought on the right, then because I don't mentally separate "primary" and "auxiliary" screens in this configuration, I will deep-dive on that separate thought and get nothing done. 
+I have fallen victim to my own devices in having no clear "primary" monitor when I have 2 monitors. It creates a situation where I will be working on something to the left, have a separate thought, go investigate that thought on the right, and then, because I don't mentally separate "primary" and "auxiliary" screens in this configuration, I will deep-dive on that separate thought and get nothing done. 
 
 Which is funny, because I already have the next post idea, but I am forced to focus on this post with my one active screen.
 
