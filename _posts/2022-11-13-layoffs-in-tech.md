@@ -18,7 +18,7 @@ I can only speculate about Meta and Twitter, but I would rather focus on this: *
 
 Scaling business with automation, lowering operational costs, visualizing data to make informed decisions, analyzing data to reflect on performance and optimize, using machine learning to predict, classify, and categorize, I could go on and on...
 
-The bottom line is that companies do not want to go back to the slower manual processes and uninformed decision making just as those of us with cars would hate going back to horse-drawn carriages. 
+The bottom line is that companies do not want to go back to slower manual processes and making uninformed decisions, just as those of us with cars would have a rough time switching to horse-drawn carriages. 
 
 Computing in general has come so far thanks to a concerted effort by many deeply interested people. I can only imagine the affects on software by hardware innovations such as widely-available quantum computing or year-long smartphone battery life (due to advances driven by the electric vehicle industry). 
 
