@@ -7,11 +7,11 @@ I would be remiss if I did not pay attention and feel some kind of way about the
 So, what really is the state of the software industry in America? 
 
 - **3.9% year-over-year job growth** according to the latest [Cyberstates 2022](https://www.cyberstates.org/pdf/CompTIA_Cyberstates_2022.pdf) - a "state of the tech workforce" report aggregated by CompTIA
-![graph showing the index of monthly employment changes across industry sectors](/_assets/TechEmploymentJan2020Feb2022.png)
+![graph showing the index of monthly employment changes across industry sectors](/assets/TechEmploymentJan2020Feb2022.png)
 - **Expected 26% increase in demand for software developers** over the next 10 years [as of 2021 by the U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm)
 - **Amazon (#2), Apple (#3), and Alphabet (#8) all sit in the top 10 of the Fortune 500** for [2022](https://fortune.com/fortune500/2022). This is an improvement over [2021](https://fortune.com/fortune500/2021) when Alphabet was #9 and an improvement *again* over [2020](https://fortune.com/fortune500/2020/) when Apple was #4 and Alphabet was not even in top 10
 - While a [year-to-date heatmap of the stock market for technology services](https://www.tradingview.com/heatmap/stock/?activeGroup=Technology%20Services&color=Perf.YTD&dataset=AllUSA&group=sector&size=market_cap_basic) shows some pain for everyone, [the past month](https://www.tradingview.com/heatmap/stock/?activeGroup=Technology%20Services&color=Perf.1M&dataset=AllUSA&group=sector&size=market_cap_basic) shows mostly **positive growth**:
-![image of stock market heatmap](/_assets/tradingview-stock-market-heatmap-2022-11-13_11.32.34.png)
+![image of stock market heatmap](/assets/tradingview-stock-market-heatmap-2022-11-13_11.32.34.png)
     - That said, we do see Meta here with a relatively large drop in value 👀
 
 I can only speculate about Meta and Twitter, but I would rather focus on this: **software is in demand, so good software engineers are in demand**.
