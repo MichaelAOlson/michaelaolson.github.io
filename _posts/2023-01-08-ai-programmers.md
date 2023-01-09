@@ -45,6 +45,6 @@ It is worth noting the following distinctions, as I have used "AI" throughout th
 - Deep learning is even more specific as a category of ML aiming to also utilize brain-like logical structures.
 
 ## tl;dr
-**The code in the end product is not particularly visible.** Not all programs can be decompiled and not all programs behave in isolation, but despite this, there may be enough freely available code on the internet for an AI to minimally learn core "concepts" of programming, though I struggle to think how it would even learn these without some human help describing what problems the programs were written to solve and the tradeoffs of our design decisions.
+**The code in the end product is not particularly visible.** Not all programs can be decompiled and not all programs behave in isolation, but despite this, there may be enough freely available code on the internet for an AI to minimally learn what we might call core "concepts" of programming. However, I do struggle to think how the AI would internalize these concepts without some human help to describe the problems being solved with that code and the tradeoffs of the design decisions.
 
 Perhaps the future of programming will be to use a traditionally written language, making the next generation of programmer the linguists and poets.
