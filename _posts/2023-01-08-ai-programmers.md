@@ -10,11 +10,11 @@ Software comes in all shapes and sizes.
 
 1. The source code for a program may be freely distributed as the product itself. Advocates, such as the [FSF](https://www.fsf.org/), believe this offers the user freedom and protection from malicious actors through transparency and peer-review.
 
-2. The program may also be compiled and distributed as an executable binary on the user's behalf. While the source code may be openly available to review and compile, some prefer the expediency of the ready-to-run executable, typically trusting that someone has done due diligence to review the software being distributed for safety, or that their antivirus software will catch any wrong doing.
+2. The program may be compiled and distributed as an executable binary on the user's behalf. While the source code may be openly available to review and compile, some prefer the expediency of the ready-to-run executable, typically trusting that someone has done due diligence to review the software being distributed for safety, or that their antivirus software will catch any wrong doing.
 
-3. In cases where the company wants to protect the intellectual property of the product code, the compiled executables may be the only software distributed to the user, such as with many modern videogames. 
+3. In cases where the company wants to protect the intellectual property of the product code, the compiled executables may be the only software distributed to the user, such as with many modern videogames. This would be referred to as closed-source or [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software).
 
-4. This is in contrast with an even more restrictive form of distributing modern videogames - streaming services. Input from the user, such as keyboard or controller input, are sent to a server where the game code is running. The server determines how that input affects the state of the game, makes the changes, and streams back the resulting video. 
+4. An even more restrictive form of distributing modern content is to execute the core logic on a server and only serve the user an interface to use it. Videogame streaming would fall into this category, where input from the user, such as keyboard or controller input, are sent to a server where the game code is running. The server determines how that input affects the state of the game, makes the changes, and streams back the resulting video. This also covers many web services and [Software-as-a-Service](https://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) products. 
 
 How much of the overall program the AI has access to restricts the ability to learn from it. Even if it had access to a server running the core services of a product, there may be external services that the program needs to request data from. Depending on the program, it may be useless without these external services.
 
@@ -35,6 +35,11 @@ To take the analogy a step further - suppose the client now wishes to move two c
 
 At a more philosophical level - is code more than just a representation of requirements? Perhaps forcing a certain structure on language itself also forces deliberate human thought to translate our vague desires into concrete implementations.
 
+## tl;dr
+**The code in the end product is not particularly visible.** Not all programs can be decompiled and not all programs behave in isolation. Despite this, there may be enough freely available code on the internet for an AI to minimally learn what we might call core "concepts" of programming. I do struggle to believe, however, that AI could internalize these concepts without some human help to describe the problems being solved with that code and the tradeoffs of the design decisions.
+
+Perhaps the future of programming will be to use a traditionally written language, making the next generation of programmers the linguists and poets.
+
 ## Artificial Intelligence (AI) vs. Machine Learning (ML) vs. Deep Learning
 It is worth noting the following distinctions, as I have used "AI" throughout this post where "machine learning" was likely more accurate:
 
@@ -43,8 +48,3 @@ It is worth noting the following distinctions, as I have used "AI" throughout th
 - ML is more specific, focusing specifically on giving computers the ability to learn without being explicitly programmed. 
 
 - Deep learning is even more specific as a category of ML aiming to also utilize brain-like logical structures.
-
-## tl;dr
-**The code in the end product is not particularly visible.** Not all programs can be decompiled and not all programs behave in isolation, but despite this, there may be enough freely available code on the internet for an AI to minimally learn what we might call core "concepts" of programming. However, I do struggle to think how the AI would internalize these concepts without some human help to describe the problems being solved with that code and the tradeoffs of the design decisions.
-
-Perhaps the future of programming will be to use a traditionally written language, making the next generation of programmer the linguists and poets.
